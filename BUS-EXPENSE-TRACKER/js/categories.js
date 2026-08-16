@@ -19,7 +19,7 @@
  */
 const CATEGORY_GROUPS = {
   'Accommodation': ['Hotel Accommodation', 'House Rent', 'House Cleaning', 'House Setup Materials'],
-  'Block Production': ['Store Construction', 'Cement', 'Burnt Bricks', 'Water Supply', 'Sharp Sand', 'Block Moulding Labour', 'Block Production'],
+  'Block Production': ['Store Construction', 'Cement', 'Burnt Bricks', 'Water Supply', 'Sharp Sand', 'plaster Sand','Block Moulding Labour', 'Block Production'],
   'Main Work': ['Chemical', 'Setting Out Materials', 'Security', 'PPE & Safety Equipment', 'Granite', 'Site Office'],
   'Excavation of Trenches': ['Excavation of Trenches', 'Excavation Equipment Hire', 'Column Base Works'],
   'Transportation of Tools': ['Transportation of Tools', 'Fuel for Transportation'],
