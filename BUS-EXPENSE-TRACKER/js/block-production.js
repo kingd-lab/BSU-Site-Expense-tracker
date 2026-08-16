@@ -17,7 +17,7 @@
   let currentUser = null;
   let trendChart;
 
-  const OTHER_CATEGORIES = ['Store Construction', 'Cement', 'Burnt Bricks', 'Water Supply', 'Sharp Sand', 'Plaster Sand'];
+  const OTHER_CATEGORIES = ['Store Construction', 'Cement', 'Burnt Bricks', 'Water Supply','Plaster Sand', 'Sharp Sand',];
 
   function showToast(msg, type) {
     const t = document.getElementById('toast');
